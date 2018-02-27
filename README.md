@@ -2,7 +2,7 @@
 
 ## Code of Conduct
 
-### The **Android Study Group Slack** should be a safe place for everybody regardless of
+### The **Atlanta Android Club (AAC) Slack** should be a safe place for everybody regardless of
 
 - gender, gender identity or gender expression 
 - sexual orientation
@@ -49,48 +49,28 @@ Failing to follow the community guidelines as described in this document carries
 * If you wish to share a conversation, or part of one, you must get permission from each person involved.
 
 ### Best Practices
-* Stay on topic. The goal of the ASG Slack is to facilitate discussion of things relating to Android development. This could be about marketing, business, server-side programming, or other things that may be important to an Android developer. For off-topic topics go to #random
+* Stay on topic. The goal of the AAC Slack is to facilitate discussion of things relating to Android development. This could be about marketing, business, server-side programming, or other things that may be important to an Android developer. For off-topic topics go to #random
 * If you have a technical question, please try and figure it out before posting here. If you're having trouble, all questions are welcome.
-* Before asking any questions, please check if there's a channel for it before asking in #android-general
+* Before asking any questions, please check if there's a channel for it before asking in #general-talk
 * Job posting can be posted in #hiring only. Do not reach out to individuals for hiring purposes.
 
-**If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current admins and their Slack IDs:**
+**If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current admins:**
 
-* Ben Lee - @bl
-* Chiu-Ki Chan - @chiuki
-* Corey Latislaw - @colabug
-* Danny Roa - @dannyroa
-* Eric Butler - @codebutler
-* Erik Hellman - @hellman
-* Grantland Chew - @grantland
-* Haley Smith - @haley
-* Jake Ouellette - @jakeout
-* Maria Neumayer - @maria
-* Mike Evans - @michael.evans
-* Raveesh Bhalla - @raveesh
-* Rebecca Franks - @riggaroo
-* Ty Smith - @ty
-* Vince Mi - @vince
-* Zac Sweers - @z
-* Zarah Dominguez - @zarah
+* Alan Rodriguez
+
+* David Greenhalgh
+
+* Kristin Marsicano
+
+* Vishnu Rajeevan
 
 *The role of the admins is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
-
-## Member Nomination  
-
-To nominate someone to join the Android Study Group, fill out [this](http://asgweb.herokuapp.com/nominate/) form with your name, their name and info, and why you are nominating them.  
-
-This study group is for people actively involved in creating Android applications professionally. This includes people like software engineers and designers, and excludes people like journalists or recruiters. The admins will take into consideration the amount of time the nominee has spent working on Android (at least 1 year is ideal). Other helpful data points include the company where they work (if applicable), apps they have built, and their contributions to the Android community (via open source software, meetups, blog posts, etc). Membership is determined by a vote from the admins, who will then send out an invitation to the nominee.
-
-If there is any person you would like to keep out of the study group for any reason, message one of the admins.  
-
-Because this Slack group is representative of the community, admins reserve the right to deny admission or revoke membership based on CoC violating behavior outside of the Slack chat environment (e.g. in person, GitHub, social media), if necessary.
 
 ## Slack Etiquette
 
 ### Slack Commands
 
-Many members of ASG have this Slack open during the work day, or installed on their phones. Additionally, there are members in many different time zones. Please be cautious about using  `@channel` or `@everyone` and avoid it if possible.
+Many members of AAC have this Slack open during the work day, or installed on their phones. Additionally, there are members in many different time zones. As such, all mass ping notifications (`@here` and `@all`) have been disabled.
 
 For tips and tricks or questions about Slack usage, check out #meta.
 
