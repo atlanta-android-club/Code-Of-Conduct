@@ -2,7 +2,15 @@
 
 ## Code of Conduct
 
-### The **Atlanta Android Club (AAC) Slack** should be a safe place for everybody regardless of
+This code of conduct applies to:
+
+* all Atlanta Android Club events
+* the Atlanta Android Club Slack
+* any and all things hosted or organized by Atlanta Android Club
+
+In addition to this document, also read our read our [Anti-Harassment Policy](anti-harrasment-policy.md).
+
+### The **Atlanta Android Club (AAC)** should be a safe place for everybody regardless of
 
 - gender, gender identity or gender expression 
 - sexual orientation
@@ -12,10 +20,10 @@
 - age
 - religion
 
-### As someone who is part of this Slack, you agree that:
+### As someone who is part of AAC, you agree that:
 
 * We are collectively and individually committed to safety and inclusivity.
-* We have zero tolerance for abuse, harassment, or discrimination.
+* We have zero tolerance for abuse, harassment (see our [Anti-Harassment Policy](anti-harrasment-policy.md)), or discrimination.  
 * We respect people’s boundaries and identities.
 * We refrain from using language that can be considered oppressive (systemically or otherwise), eg. sexist, racist, homophobic, transphobic, ableist, classist, etc. - this includes (but is not limited to) various slurs.
 * We avoid using offensive topics as a form of humor.
@@ -42,17 +50,11 @@
 * Ask for tips / help with avoiding making the offense in the future.
 * Apologize and ask forgiveness.
 
-Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from the Slack. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be asked to leave permanently.
+Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from events or the Slack. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be asked to leave permanently.
 
 ### Privacy
 * All conversations are private unless otherwise specified. 
 * If you wish to share a conversation, or part of one, you must get permission from each person involved.
-
-### Best Practices
-* Stay on topic. The goal of the AAC Slack is to facilitate discussion of things relating to Android development. This could be about marketing, business, server-side programming, or other things that may be important to an Android developer. For off-topic topics go to #random
-* If you have a technical question, please try and figure it out before posting here. If you're having trouble, all questions are welcome.
-* Before asking any questions, please check if there's a channel for it before asking in #general-talk
-* Job posting can be posted in #hiring only. Do not reach out to individuals for hiring purposes.
 
 **If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current admins:**
 
@@ -73,6 +75,12 @@ Failing to follow the community guidelines as described in this document carries
 Many members of AAC have this Slack open during the work day, or installed on their phones. Additionally, there are members in many different time zones. As such, all mass ping notifications (`@here` and `@all`) have been disabled.
 
 For tips and tricks or questions about Slack usage, check out #meta.
+
+### Best Practices
+* Stay on topic. The goal of the AAC Slack is to facilitate discussion of things relating to Android development. This could be about marketing, business, server-side programming, or other things that may be important to an Android developer. For off-topic topics go to #random
+* If you have a technical question, please try and figure it out before posting here. If you're having trouble, all questions are welcome.
+* Before asking any questions, please check if there's a channel for it before asking in #general-talk
+* Job posting can be posted in #hiring only. Do not reach out to individuals for hiring purposes.
 
 ### Q & A
 
