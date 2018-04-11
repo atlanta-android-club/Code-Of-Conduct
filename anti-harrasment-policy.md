@@ -1,11 +1,13 @@
 # Anti-Harassment Policy (template)
 
-Why do we have an official anti-harassment policy for GDG [chapter] / Community Group events?
+Why do we have an official anti-harassment policy for Atlanta Android Club?
 
-It sets expectations for behavior at the event. Simply having an anti-harassment policy can prevent harassment.
+It sets expectations for behavior at any Atlanta Android Club event, on Atlanta 
+Android Club Slack, and in any other Atlanta Android Club related interaction.  
+Simply having an anti-harassment policy can prevent harassment.
 It encourages people to attend who have had bad experiences at other events.
 It gives event staff/volunteers instructions on how to handle harassment quickly, with the minimum amount of disruption for the event.
-GDG [chapter] / Community Group is dedicated to providing a harassment-free event experience for everyone, regardless of:
+Atlanta Android Club is dedicated to providing a harassment-free event experience for everyone, regardless of:
 
 * gender
 * sexual orientation
@@ -16,13 +18,13 @@ GDG [chapter] / Community Group is dedicated to providing a harassment-free even
 * religion
 * nationality
 
-The above is not an exhaustive list -- we do not tolerate harassment of event 
-participants in any form.
+The above is not an exhaustive list -- we do not tolerate harassment of Atlanta 
+Android Club participants in any form.
 
 Sexual language and imagery is not appropriate for any event venue, including 
-talks. Event participants violating these rules may be expelled from the event, 
-and even banned from future events at the discretion of the event 
-organizers/management.
+talks, nor any online interaction. Event participants violating these rules may 
+be expelled from the event and/or Slack, and even banned from future events 
+and/or Slack participation at the discretion of the event organizers/management.
 
 Harassment includes (but is not limited to):
 
@@ -46,20 +48,12 @@ promotional items or demo material.
 
 If you are being harassed, notice that someone else is being harassed, or have 
 any other concerns, please contact an organizer or event volunteer immediately. 
-Organizers and event volunteers may be identified by t-shirts or special 
-badges/lanyards. Organizers will investigate the issue and take appropriate 
+Organizers will investigate the issue and take appropriate 
 action. This may include helping participants contact venue security or local 
 law enforcement, provide escorts, or otherwise assist those experiencing 
 harassment to feel safe for the duration of the event.
 
-Contacts:
-
-[Email address for organizers]
-[Phone number for organizers]
-[Phone number for event security]
-[Local law enforcement]
-[Local emergency and non-emergency medical]
-[Local taxi company]
+The organizers are listed on the [Organizers page](https://www.meetup.com/Atlanta-Android-Club/members/?op=leaders) of the Meetup.com site.
 
 Though we hope that we never have to invoke this policy, we believe that having 
 this document helps everyone think a little more about how their actions and 
