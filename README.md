@@ -70,20 +70,17 @@ Failing to follow the community guidelines as described in this document carries
 
 ## Slack Etiquette
 
-### Slack Commands
 
 Many members of AAC have this Slack open during the work day, or installed on their phones. Additionally, there are members in many different time zones. As such, all mass ping notifications (`@here` and `@all`) have been disabled.
 
 For tips and tricks or questions about Slack usage, check out #meta.
 
 ### Best Practices
+
 * Stay on topic. The goal of the AAC Slack is to facilitate discussion of things relating to Android development. This could be about marketing, business, server-side programming, or other things that may be important to an Android developer. For off-topic topics go to #random
-* If you have a technical question, please try and figure it out before posting here. If you're having trouble, all questions are welcome.
+* If you're having trouble, all questions are welcome.  However, make sure to value your fellow members' time, and be considerate when asking questions. Before asking a question, please Google for it, and consult the Android documentation. If it is still unclear, please reference the sources you consulted in your question.  
 * Before asking any questions, please check if there's a channel for it before asking in #general-talk
+* When answering questions, avoid condescending language or impatience. We are all trying our hardest! 
 * Job posting can be posted in #hiring only. Do not reach out to individuals for hiring purposes.
 
-### Q & A
 
-Value your fellow members' time, and be considerate when asking questions. Before asking a question, please Google for it, and consult the Android documentation. If it is still unclear, please reference the sources you consulted in your question.
-
-When answering questions, avoid condescending language or impatience. We are all trying our hardest! 
