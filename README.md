@@ -4,9 +4,8 @@
 
 This code of conduct applies to:
 
-* all Atlanta Android Club events
+* any and all events hosted or organized by Atlanta Android Club
 * the Atlanta Android Club Slack
-* any and all things hosted or organized by Atlanta Android Club
 
 In addition to this document, also read our read our [Anti-Harassment Policy](anti-harrasment-policy.md).
 

@@ -1,4 +1,4 @@
-# Anti-Harassment Policy (template)
+# Anti-Harassment Policy
 
 Why do we have an official anti-harassment policy for Atlanta Android Club?
 
